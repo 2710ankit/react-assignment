@@ -1,0 +1,15 @@
+.center-div {
+  display: flex !important;
+  justify-content: center;
+  align-items: center; 
+}
+
+.card-container{
+    background-color: rgb(204, 39, 121);
+}
+
+.m-auto {
+  margin: auto;
+}
+
+
